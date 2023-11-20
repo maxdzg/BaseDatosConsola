@@ -37,6 +37,12 @@
           <AssociatedConnUserName />
           <FullPath>CREATE TABLE Departamento.sql</FullPath>
         </FileNode>
+        <FileNode Name="CREATE TABLE Personal.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE TABLE Personal.sql</FullPath>
+        </FileNode>
         <FileNode Name="INSERT Departamento.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
