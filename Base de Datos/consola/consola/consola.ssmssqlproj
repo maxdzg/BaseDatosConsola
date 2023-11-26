@@ -31,6 +31,12 @@
           <AssociatedConnUserName />
           <FullPath>CREATE TABLE  Empresa.sql</FullPath>
         </FileNode>
+        <FileNode Name="CREATE TABLE baseDeDatos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE TABLE baseDeDatos.sql</FullPath>
+        </FileNode>
         <FileNode Name="CREATE TABLE Departamento.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
@@ -43,6 +49,24 @@
           <AssociatedConnUserName />
           <FullPath>CREATE TABLE Personal.sql</FullPath>
         </FileNode>
+        <FileNode Name="CREATE TABLE Servidor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE TABLE Servidor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CREATE TABLE SistemaOperativo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE TABLE SistemaOperativo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT baseDeDatos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT baseDeDatos.sql</FullPath>
+        </FileNode>
         <FileNode Name="INSERT Departamento.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
@@ -54,6 +78,12 @@
           <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>INSERT Empresa.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT SistemaOperativo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MAX\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MAX\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT SistemaOperativo.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
